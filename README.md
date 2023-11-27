@@ -7,11 +7,10 @@ In this project we will learn a feature that allows the creation of classes, int
 
 **Concepts**
 
-
 | Concept   |      Resources      |
 |----------|:-------------:|
 |What is a generics| [Generics Concept](https://dev.java/learn/generics/intro/) |
-|Generics tutorial|[Generics (Tutorial)](https://www.youtube.com/watch?v=plFSwAUVvWw)|
+|Java Generic Class & Generic Method|[Generics (Tutorial)](https://www.youtube.com/watch?v=plFSwAUVvWw)|
 
 
 **Problem**
