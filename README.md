@@ -10,8 +10,8 @@ In this project we will learn a feature that allows the creation of classes, int
 
 | Concept   |      Resources      |
 |----------|:-------------:|
-|Generics tutorial|[Generics tutorial](https://www.youtube.com/watch?v=plFSwAUVvWw)|
-|Generics Concept| [Generics Concept](https://dev.java/learn/generics/intro/) |
+|What is a generics| [Generics Concept](https://dev.java/learn/generics/intro/) |
+|Generics tutorial|[Generics (Tutorial)](https://www.youtube.com/watch?v=plFSwAUVvWw)|
 
 
 **Problem**
