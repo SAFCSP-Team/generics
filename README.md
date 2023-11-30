@@ -19,7 +19,7 @@ Create a method that can print an array of any type by using the generic concept
 
 **Implementation**
 
-Create a `printArray` method that takes an array of type T as a parameter and prints its elements..
+Create a `printArray()` method that takes an array of type T as a parameter and prints its elements
 
 ```Java
 
