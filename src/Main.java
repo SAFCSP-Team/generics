@@ -1,10 +1,13 @@
+
+
 public class Main {
     public static void main(String[] args) {
+        ArrayUtils obj = new ArrayUtils();
         Integer[] numbers = {1, 2, 3, 4, 5};
-        ArrayUtils.printArray(numbers);
-
+        obj.printArray(numbers);
+        ArrayUtils obj2 = new ArrayUtils();
         String[] names = {"John", "Jane", "Alice"};
-        ArrayUtils.printArray(names);
+        obj2.printArray(names);
     }
-           /* your code here */
+          
 }
