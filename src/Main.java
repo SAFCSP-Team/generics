@@ -6,5 +6,16 @@ public class Main {
         String[] names = {"John", "Jane", "Alice"};
         ArrayUtils.printArray(names);
     }
-           /* your code here */
+
+
+ 
 }
+
+class ArrayUtils {
+    public static <T> void printArray(T[] array) {
+        for (T element : array) {
+            System.out.print(element + "  ");
+        }
+    }
+}
+
